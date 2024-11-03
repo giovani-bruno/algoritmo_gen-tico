@@ -19,7 +19,7 @@ Este projeto visa otimizar o transporte de carga de uma empresa aérea fictícia
 - [Pandas](https://pandas.pydata.org/)
 - [Genetic Algorithm](https://pypi.org/project/geneticalgorithm/)
 
-## Como Usar
+## Como Executar o Projeto
 
 1. Clone o repositório:
 
