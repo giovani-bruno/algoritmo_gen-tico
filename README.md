@@ -24,7 +24,7 @@ Este projeto visa otimizar o transporte de carga de uma empresa aérea fictícia
 1. Clone o repositório:
 
    ```
-   git clone https://github.com/giovani-burno/algoritmo_genetico.git
+   git clone https://github.com/giovani-bruno/algoritmo_genetico.git
    ```
 2. Navegue até o diretório do projeto:
    ```
